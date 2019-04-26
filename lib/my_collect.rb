@@ -7,6 +7,6 @@ def my_collect(arr)
  end
  
  else 
- 
+  "Please input an argument"
  end
 end 
