@@ -8,7 +8,7 @@ def my_collect(arr)
  end 
  
  newArr
- end
+ 
  
  else 
   "Please input a block"
